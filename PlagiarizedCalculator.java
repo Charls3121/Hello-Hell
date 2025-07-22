@@ -8,7 +8,7 @@ public class PlagiarizedCalculator {
 
     public PlagiarizedCalculator() {
         // Frame setup
-        frame = new JFrame("Shorem Calculator");
+        frame = new JFrame("Plagiarized Calculator");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(360, 520);
         frame.setLayout(new BorderLayout());
